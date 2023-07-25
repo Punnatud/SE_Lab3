@@ -1,5 +1,7 @@
 package atm;
 
+import org.springframework.context.annotation.Configuration;
+
 /**
  * An ATM that accesses a bank.
  */
